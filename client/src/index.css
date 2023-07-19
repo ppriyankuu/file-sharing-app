@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url(https://p4.wallpaperbetter.com/wallpaper/799/652/892/anime-landscape-clouds-grass-field-wallpaper-preview.jpg);
+  background-size: cover;
+}
