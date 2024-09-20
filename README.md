@@ -4,5 +4,5 @@
 
 ## How to run?
 ```sh
-  not sure! I forgot :|
+  not sure! I forgot :)
 ``` 
