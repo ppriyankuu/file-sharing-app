@@ -1,4 +1,4 @@
-# FILE SHARING 
+# FILE SHARING APP
 
 - Helps you send your file over a single link and download on the other side.
 
