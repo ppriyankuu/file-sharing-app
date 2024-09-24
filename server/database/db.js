@@ -3,6 +3,7 @@ import dotenv from "dotenv";
 
 dotenv.config();
 
+// database connection function 
 const DBConnection = async () => {
   const USERNAME = process.env.DB_USERNAME;
   const PASSWORD = process.env.DB_PASSWORD;
