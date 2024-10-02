@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
 
+// database_model
 const FileSchema = new mongoose.Schema({
     path: {
         type: String,
