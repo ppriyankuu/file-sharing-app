@@ -4,7 +4,7 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
-// controllers
+// route controllers
 export const uploadImage = async (request, response) => {
     const fileObj = {
         path: request.file.path,
