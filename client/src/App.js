@@ -34,7 +34,7 @@ function App() {
           Cranky share!!!
         </h1>
         <p className="font-semibold text-xl leading-[5rem]">
-          Upload the file and then create a download link so to easily share it
+          Upload the file and create a download link so to easily share it
         </p>
 
         <button
