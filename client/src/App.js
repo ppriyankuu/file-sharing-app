@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import { uploadFile } from "./service/api";
 import { BsCloudUploadFill } from "react-icons/bs";
 
+// main App
 function App() {
   const [file, setFile] = useState("");
   const [result, setResult] = useState("");
