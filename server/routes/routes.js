@@ -6,6 +6,6 @@ const router = express.Router();
 
 // routes
 router.post('/upload', upload.single('file'), uploadImage);
-router.get('/file/:fileId', getImage);
+router.get('/file/:fileId', );
 
 export default router;
